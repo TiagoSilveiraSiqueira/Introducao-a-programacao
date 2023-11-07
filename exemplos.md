@@ -47,3 +47,6 @@ let sobrenome = "Silva";
 let nomeCompleto = nome + " " + sobrenome;
 
 console.log("Nome Completo: " + nomeCompleto);
+
+- [Detalhes](exercicios.md)
+
