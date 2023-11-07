@@ -48,5 +48,6 @@ Para aprofundar seus conhecimentos na resolução de problemas com algoritmos, a
 - [Links úteis](links-uteis.md) para tutoriais e cursos online relacionados à resolução de problemas com algoritmos.
 
 ## Próximo Tópico
+- [Detalhes](exemplos.md)
 
 Agora que você adquiriu habilidades sólidas em resolução de problemas com algoritmos, estamos prontos para avançar para tópicos mais avançados. Continue praticando e aplicando suas habilidades à medida que avançamos em sua jornada de aprendizado.
