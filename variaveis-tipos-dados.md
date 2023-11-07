@@ -51,5 +51,6 @@ Para aprofundar seus conhecimentos em variáveis e tipos de dados, aqui estão a
 - [Links úteis](links-uteis.md) para tutoriais e cursos online relacionados.
 
 ## Próximo Tópico
+- [Resolução de Problemas com Algoritmos](resolucao-problemas.md)
 
 Agora que você entende a importância das variáveis e dos tipos de dados, estamos prontos para avançar para o próximo tópico: "Resolução de Problemas com Algoritmos". Continue praticando e consolidando seu conhecimento à medida que avançamos em sua jornada de aprendizado.
