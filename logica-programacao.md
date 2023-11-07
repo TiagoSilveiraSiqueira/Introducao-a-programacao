@@ -66,8 +66,8 @@ Para aprofundar ainda mais o seu conhecimento, aqui estão alguns recursos adici
 - [Livros recomendados](bibliografia.md) sobre lógica de programação.
 - [Links úteis](links-uteis.md) para tutoriais e cursos online relacionados à lógica de programação.
 
-## Próximo Tópico
-
+## Próximo Tópico 
+- [Algoritmos e Estruturas de Controle](algoritmos-estruturas.md)
 Agora que você possui uma compreensão sólida da lógica de programação, estamos prontos para avançar para o próximo tópico: "Algoritmos e Estruturas de Controle". Continue a aprofundar seus conhecimentos e pratique o que aprendeu.
 
 Sinta-se à vontade para fazer perguntas, explorar os exemplos e trabalhar nos exercícios para fortalecer suas habilidades em lógica de programação. Estamos aqui para ajudá-lo em sua jornada de aprendizado.
