@@ -66,5 +66,6 @@ Para aprofundar seus conhecimentos em algoritmos e estruturas de controle, recom
 - [Links úteis](links-uteis.md) para tutoriais e cursos online relacionados.
 
 ## Próximo Tópico
+- [Variáveis e Tipos de Dados](variaveis-tipos-dados.md)
 
 Agora que você adquiriu uma compreensão sólida de algoritmos e estruturas de controle, estamos prontos para avançar para o próximo tópico: "Variáveis e Tipos de Dados". Continue praticando e aprimorando suas habilidades à medida que progredimos em sua jornada de aprendizado.
