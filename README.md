@@ -65,17 +65,3 @@ Explore recursos adicionais que podem enriquecer sua jornada de aprendizado em p
 
 - [Links Úteis](links-uteis.md): Links para recursos relacionados à programação.
 - [Bibliografia](bibliografia.md): Lista de livros e materiais recomendados.
-
-## Suporte
-
-Para dúvidas ou suporte adicional, entre em contato conosco em [email@seuemail.com].
-
-## Licença
-
-Este repositório é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-![Licença MIT](https://img.shields.io/badge/License-MIT-green)
-
----
-
-Sinta-se à vontade para personalizar este README de acordo com o seu curso, adicionando informações específicas e links para os recursos relevantes. Certifique-se de fazer o upload das imagens para uma pasta adequada no seu repositório e ajustar os URLs das imagens no README.
